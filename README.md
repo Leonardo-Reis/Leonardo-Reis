@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Leonardo-Reis
-- 👀 I’m interested in Wew Development
-- 🌱 I’m currently learning Python (Flask) and MySQL
-- 💞️ I’m looking to collaborate on anything involving Web Developtment
+- 👋 Hi, I’m @Leonardo-Reis.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Python (Flask) and MySQL.
+- 💞️ I’m looking to collaborate on anything involving Web Developtment.
 - 📫 How to reach me: leonardocarlosreis@gmail.com
 
 <!---
